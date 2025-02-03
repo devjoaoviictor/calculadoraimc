@@ -75,7 +75,7 @@
             android:maxLength="6"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Digite seu peso. Ex: 70.200"
+            android:hint="Digite seu peso. Ex.: 70.200"
             android:background="@drawable/rounded_bg"
             android:inputType="numberDecimal" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -97,7 +97,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/rounded_bg"
             android:inputType="numberDecimal"
-            android:hint="Digite sua altura. Ex: 1.70 " />
+            android:hint="Digite sua altura. Ex.: 1.70 " />
     </com.google.android.material.textfield.TextInputLayout>
 
 
